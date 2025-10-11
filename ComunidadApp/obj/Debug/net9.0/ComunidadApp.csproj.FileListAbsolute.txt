@@ -1,0 +1,14 @@
+C:\ProyectosCSharp\ComunidadApp\bin\Debug\net9.0\ComunidadApp.exe
+C:\ProyectosCSharp\ComunidadApp\bin\Debug\net9.0\ComunidadApp.deps.json
+C:\ProyectosCSharp\ComunidadApp\bin\Debug\net9.0\ComunidadApp.runtimeconfig.json
+C:\ProyectosCSharp\ComunidadApp\bin\Debug\net9.0\ComunidadApp.dll
+C:\ProyectosCSharp\ComunidadApp\bin\Debug\net9.0\ComunidadApp.pdb
+C:\ProyectosCSharp\ComunidadApp\obj\Debug\net9.0\ComunidadApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosCSharp\ComunidadApp\obj\Debug\net9.0\ComunidadApp.AssemblyInfoInputs.cache
+C:\ProyectosCSharp\ComunidadApp\obj\Debug\net9.0\ComunidadApp.AssemblyInfo.cs
+C:\ProyectosCSharp\ComunidadApp\obj\Debug\net9.0\ComunidadApp.csproj.CoreCompileInputs.cache
+C:\ProyectosCSharp\ComunidadApp\obj\Debug\net9.0\ComunidadApp.dll
+C:\ProyectosCSharp\ComunidadApp\obj\Debug\net9.0\refint\ComunidadApp.dll
+C:\ProyectosCSharp\ComunidadApp\obj\Debug\net9.0\ComunidadApp.pdb
+C:\ProyectosCSharp\ComunidadApp\obj\Debug\net9.0\ComunidadApp.genruntimeconfig.cache
+C:\ProyectosCSharp\ComunidadApp\obj\Debug\net9.0\ref\ComunidadApp.dll
